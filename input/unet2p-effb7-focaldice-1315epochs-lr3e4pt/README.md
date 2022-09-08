@@ -1,0 +1,1 @@
+Trained model file for UNet++ EfficientNet-B7.

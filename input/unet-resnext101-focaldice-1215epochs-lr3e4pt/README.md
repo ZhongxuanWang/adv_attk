@@ -1,0 +1,1 @@
+Trained model file for U-Net ResNeXt-101 model.
